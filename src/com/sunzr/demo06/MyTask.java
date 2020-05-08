@@ -1,5 +1,9 @@
 package com.sunzr.demo06;
 
+/**
+ *
+ * 任务类 
+ */
 public class MyTask implements Runnable
 {
 
