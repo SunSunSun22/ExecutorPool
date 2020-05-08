@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5b8c7d0-a972-4b8c-80c0-af30136f8d9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sunzr/demo06/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sunzr/demo06/MyTask.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5b8c7d0-a972-4b8c-80c0-af30136f8d9d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -356,12 +352,12 @@
       <option name="presentableId" value="Default" />
       <updated>1588815226165</updated>
       <workItem from="1588815237914" duration="17819000" />
-      <workItem from="1588925278566" duration="261000" />
+      <workItem from="1588925278566" duration="763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18080000" />
+    <option name="totallyTimeSpent" value="18582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
